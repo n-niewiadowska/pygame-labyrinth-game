@@ -1,6 +1,6 @@
 # Pygame Labyrinth Game
 
-This is a simple devil's labyrinth game developed by me to as a university project. Its main focuses are learning Python and basics of Pygame.
+This is a simple devil's labyrinth game developed by me as a university project. Its main focuses are learning Python and basics of Pygame.
 
 ### Tech Stack
 
